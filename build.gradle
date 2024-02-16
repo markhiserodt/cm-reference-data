@@ -33,7 +33,7 @@ tasks.named('test') {
 
 azurewebapp {
 	resourceGroup = 'hig-cm'
-	appName = 'xPlanApi'
+	appName = 'cm-reference-data'
 	pricingTier = 'F1'
 	region = 'westus'
 	runtime {
